@@ -3,6 +3,8 @@
 This is the **React + Redux Frontend** for theHastavyapara Ecommerce platform.
 It allows users to browse products, categories, and brands, and provides buyers with an intuitive shopping experience.
 
+[# Hastavyapara - Frontend](https://github.com/prof-gautam/Hastavyapara-backend)
+
 ## Project Purpose
 
 - Customer-facing frontend for browsing & purchasing products
